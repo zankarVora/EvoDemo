@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EvoDemo.iml" filepath="$PROJECT_DIR$/EvoDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commerce-driver-2.27.2.RELEASE/commerce-driver-2.27.2.RELEASE.iml" filepath="$PROJECT_DIR$/commerce-driver-2.27.2.RELEASE/commerce-driver-2.27.2.RELEASE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ingenico-rba-terminals-2.27.2.RELEASE/ingenico-rba-terminals-2.27.2.RELEASE.iml" filepath="$PROJECT_DIR$/ingenico-rba-terminals-2.27.2.RELEASE/ingenico-rba-terminals-2.27.2.RELEASE.iml" />
+    </modules>
+  </component>
+</project>

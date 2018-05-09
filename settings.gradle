@@ -1,0 +1,1 @@
+include ':app', ':commerce-driver-2.27.2.RELEASE', ':ingenico-rba-terminals-2.27.2.RELEASE'

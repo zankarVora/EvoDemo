@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('ingenico-rba-terminals-2.27.2.RELEASE.aar'))
